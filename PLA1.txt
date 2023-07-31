@@ -1,0 +1,54 @@
+Euler's Totient Fn
+===================
+
+defined as n>= 0 for all +ve nos must be co-prime to n:
+phi(3)=
+phi(5)=
+phi(6)=
+
+> Discusssion on prime and co primes.
+> Examples: gcd of 7,5 etc.
+> gcd of two nos.
+
+Strobgrammatic number
+=======================
+
+> A strobogrammatic number is a number whose numeral is rotationally symmetric, so that it appears the same when rotated 180 degrees.
+
+> Algo: First store all the data in the aray.
+> Now, create a hash map.
+0,0
+1,1
+8,8
+9,6
+6,9
+
+> Now run a while loop until size of array
+> compare array element with hash map.
+> if condn satisfied, return true
+  else false.
+
+7.04.2023
+=============
+Karatsuba Algo.
+----------------
+> used for mul two numbers.
+> divide and conquer approach.
+> examples solved in class.
+> one hw is there.
+>
+
+10.04
+======
+
+Arrays
+------------
+> 
+
+13.04
+=======
+> DSA, DSA and DSA.
+> 
+
+> leetcode 509
+												
